@@ -1,1 +1,11 @@
-# Georgio-Harris-Prime-Resume
+# Georgio-Harris-Resume
+branches:
+  only:
+  - gh-pages
+  - /.*/
+
+# safelist
+branches:
+  only:
+  - master
+  - stable
